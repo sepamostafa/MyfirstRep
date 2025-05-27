@@ -1,6 +1,6 @@
 # This is my Project 
-I will edit also my project here 
-I will edit this line here 
+I will create another merge conflict
+I will create another merge conflict
 
 ## This is a subheading
 Another explanation
